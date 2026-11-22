@@ -1,0 +1,3 @@
+<resources>
+    <style name="Theme.SelfAgency" parent="android:Theme.Material.Light.NoActionBar" />
+</resources>
