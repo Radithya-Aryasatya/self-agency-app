@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Self Agency</string>
+    <string name="accessibility_service_label">Self Agency blocker</string>
+    <string name="accessibility_service_description">Lets Self Agency see which app or website is open so it can block the ones you chose (and YouTube Shorts / Instagram Reels). Nothing you view is stored or sent anywhere.</string>
+    <string name="toast_shorts_blocked">Shorts blocked. Take your time back.</string>
+    <string name="toast_reels_blocked">Reels blocked. Take your time back.</string>
+</resources>
